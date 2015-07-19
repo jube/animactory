@@ -1,2 +1,3 @@
-# animite
-Animation+Sprite
+# animactory, an Animation Factory
+
+
